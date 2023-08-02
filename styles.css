@@ -1,8 +1,17 @@
 body {
-    background-color: lightblue;
-    margin: 8px;
-    display: block;
+
+  background-color: aqua;
+
+  background-color: rgba(0, 0, 0, .25);
+  
+  color: white;
+  
+  padding: 200px;
+  
+  background: url(images/pier.jpg);
+  
   }
+
 
   p{
     margin-left: 100px;
@@ -15,7 +24,8 @@ body {
   }
 
   p.funParagraph{
-    color: purple;
+    color: white
+    ;
   }
   
   h1 {
@@ -31,7 +41,7 @@ body {
 
   h3 {
     text-align: center;
-    color: navy;
+    color: white;
   }
 
   img {
@@ -41,7 +51,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     border-style: solid;
-    border-color: navy;
+    border-color: white;
   }
 
   ul {
