@@ -1,1 +1,67 @@
-/* Write your CSS here! */
+body {
+
+  background-color: aqua;
+
+  background-color: rgba(0, 0, 0, .25);
+  
+  color: white;
+  
+  padding: 200px;
+  
+  background: url(images/pier.jpg);
+  
+  }
+
+
+  p{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align:center
+  }
+
+  #testP {
+    color: green;
+  }
+
+  p.funParagraph{
+    color: white
+    ;
+  }
+  
+  h1 {
+    margin-left: 20px;
+    text-align: center;
+    text-shadow: 2px 2px white;
+    text-decoration: underline;
+  }
+
+  #mainHeading {
+    color: red;
+  }
+
+  h3 {
+    text-align: center;
+    color: white;
+  }
+
+  img {
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: white;
+  }
+
+  ul {
+    text-align: center;
+    list-style-position: inside;
+  }
+
+  footer {
+    margin-top: 60px;
+    text-align: center;
+  }
+
+  
